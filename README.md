@@ -1,1 +1,2 @@
-
+### Motivation & Goal
+Product pricing is a sequential part of business. As data scientist, it is my job to ensure that prices remain competitive. This project gives the opportunitiy to understand price modeling and best price practices, to provide the best price predictor.
